@@ -16,7 +16,7 @@ class Menu:
             self.list_of_pizza = json.load(file)
 
     def show_menu(self):
-        print("Wilkommen bei Miro Restaurant")
+        print("Wilkommen bei Restaurant Sofia")
         print("=" * 29)
 
         for self.cat in self.list_of_pizza:
@@ -31,6 +31,6 @@ class Menu:
                 self.valid_id.append(self.dish_id)
 
             print()
-        logger.info(f"Miro Menu {self.list_of_pizza} is created.")
+        logger.info(f"Sofia Menu {self.list_of_pizza} is created.")
         return self.valid_id
 
