@@ -1,0 +1,14 @@
+{
+  "Pizzen": [
+    {"ID": 100, "title": "Pizza Margherita", "price": 5 },
+    {"ID": 101, "title": "Pizza Quattro Formaggi", "price": 7 },
+    {"ID": 102, "title": "Pizza Thunfisch", "price": 6 },
+    {"ID": 103, "title": "Pizza Funghi", "price": 7 },
+    {"ID": 104, "title": "Pizza Vegi", "price": 6 }
+  ],
+  "Auflaufe": [
+    {"ID": 200, "title": "Auflauf Nudeln", "price": 8 },
+    {"ID": 201, "title": "Auflauf Kartoffeln", "price": 9 },
+    {"ID": 202, "title": "Auflauf Hackfleisch", "price": 10 }
+  ]
+}
