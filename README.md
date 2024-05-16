@@ -1,6 +1,6 @@
 # test
 
-## My first Repo
+## My first Rep
 
 ### Test 3 
 
